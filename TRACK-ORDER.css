@@ -1,0 +1,40 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 830px;
+}
+
+.u-section-1 .u-text-1 {
+  width: auto;
+  margin: 34px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  width: 100%;
+  padding: 10px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-form-2 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-btn-2 {
+  width: 100%;
+  padding: 10px 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    margin-top: 34px;
+    margin-bottom: 0;
+    height: 164px;
+  }
+}
