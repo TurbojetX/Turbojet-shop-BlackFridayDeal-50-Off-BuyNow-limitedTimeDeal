@@ -31,6 +31,14 @@ body {
     flex: 50%;
   }
   
+.col-50-1 {
+ margin-left: 0%;
+}
+
+.col-50-2 {
+  margin-left: 0%;
+}
+
   .col-75 {
     -ms-flex: 75%; 
     flex: 75%;
